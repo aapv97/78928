@@ -7,3 +7,6 @@
 [submodule "Next"]
 	path = Next
 	url = https://github.com/aapv97/Next.git
+[submodule "78928"]
+	path = 78928
+	url = https://github.com/aapv97/78928.git

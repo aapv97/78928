@@ -10,3 +10,6 @@
 [submodule "78928"]
 	path = 78928
 	url = https://github.com/aapv97/78928.git
+[submodule "Angular"]
+	path = Angular
+	url = https://github.com/aapv97/Angular.git
